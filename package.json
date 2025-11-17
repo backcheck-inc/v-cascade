@@ -1,5 +1,5 @@
 {
-  "name": "@scouterinc/v-cascade",
+  "name": "@backcheck-inc/v-cascade",
   "version": "0.0.13",
   "description": "A lovely cascade selector with vue.js",
   "author": "zanseven007 <fish@zanyuyu.com> (https://zanyuyu.com/)",
@@ -7,10 +7,10 @@
   "main": "lib/v-cascade.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reno-shelter/v-cascade.git"
+    "url": "git+https://github.com/backcheck-inc/v-cascade.git"
   },
   "bugs": {
-    "url": "https://github.com/reno-shelter/v-cascade/issues"
+    "url": "https://github.com/backcheck-inc/v-cascade/issues"
   },
   "keywords": [
     "vue",
@@ -88,7 +88,7 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "homepage": "https://github.com/reno-shelter/v-cascade#readme",
+  "homepage": "https://github.com/backcheck-inc/v-cascade#readme",
   "directories": {
     "doc": "docs",
     "lib": "lib"
